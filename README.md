@@ -23,7 +23,7 @@ self-contained, no installer.
   runtime) and a DeckLink card. Just run the exe.
 - **Verify your download** — SHA-256:
   ```
-  ad19c223b356e844f36bc18666da1fc7dfe6b21442bbce04dcea82e0dcb3115a  ThastViewfinder.exe
+  da969f21cc0a8f0cdbdc7ec804db5c8c6fd8055e981dc506375c4cf84107e4aa  ThastViewfinder.exe
   ```
 
 ## Features
