@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/social-preview.png" alt="Thåst Viewfinder — tally, frame lines and a confidence monitor injected into a camera viewfinder over SDI" width="100%">
+</p>
+
 # Thåst Viewfinder
 
 A free broadcast utility that turns a Windows PC + a Blackmagic **DeckLink** card
